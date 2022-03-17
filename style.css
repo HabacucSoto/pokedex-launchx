@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-align: center;
+}
+
+
+.cont {
+    height: 100vh;
+}
+
+img {
+    object-fit: contain;
+    width: 150px;
+    height: 150px;
+}
+
+#cont-img {
+    width: 150px;
+    height: 150px;
+}
